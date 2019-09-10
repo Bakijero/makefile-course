@@ -1,0 +1,7 @@
+
+.PHONY: clean
+clean:
+	rm  sova.txt
+.PHONY: list
+list: 
+	ls calc*
